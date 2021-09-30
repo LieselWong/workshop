@@ -1,0 +1,8 @@
+Team Pandas (Liesel Wong, Thomas Yu, Mark Zhu)
+SoftDev
+K08 -- Cross Pollination and Virtual Insanity
+2021-09-30
+
+'''python
+python3 -m venv ~/myherozero
+'''
