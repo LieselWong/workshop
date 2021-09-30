@@ -1,10 +1,10 @@
-Team Pandas: Liesel Wong, Thomas Yu, Mark Zhu
+Team Pandas (Liesel Wong, Thomas Yu, Mark Zhu)
 SoftDev
-K08 -- Workshop Visits
+K08 -- Cross Pollination and Virtual Insanity
 2021-09-30
 
-I thought it was interesting how both my partners used similar methods. Specifically, they created an interval and checked the random number was inside the \
-interval. Then, they printed the job if the percentage was between the interval. \
+I thought it was interesting how both my partners used similar methods. Specifically, they created an interval and checked the random number was inside the 
+interval. Then, they printed the job if the percentage was between the interval. 
 
 Common Approaches:
 DictReader to read in the csv file.
