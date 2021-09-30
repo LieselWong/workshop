@@ -1,0 +1,14 @@
+Team Pandas: Liesel Wong, Thomas Yu, Mark Zhu
+SoftDev
+K08 -- Workshop Visits
+2021-09-30
+
+I thought it was interesting how both my partners used similar methods. Specifically, they created an interval and checked the random number was inside the \
+interval. Then, they printed the job if the percentage was between the interval. \
+
+Common Approaches:
+DictReader to read in the csv file.
+Randomly generated number and intervals to determine the job to output. Some people omitted the upper limit, and only checked the lower limit. 
+
+Other Approaches:
+Pandas
