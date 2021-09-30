@@ -14,7 +14,7 @@
   * A dictionary is a data structure (way of storing information). Specifically, the dictionary in python involves a key-value pair. Each key has a value. 
   When you reference a key, you can find the value associated with it (think of it like a key to a door). The first step to use a dictionary is by creating the 
   structure (dictonaryName = {}). To assign values, you type dictionaryName[assignmentKey] = [someValue]. In order to use a dictionary, you could access
-  it by referencing it with a specific key.
+  it by referencing it with a specific key. Dictionaries are important because they are easier to traverse than a traditional list structure
   
 * __List:__
   * A list is an array of values. To create a list you type listName = ["value","value","value"...]. This data structure allows you to store multiple values in
