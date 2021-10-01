@@ -1,14 +1,13 @@
 Team Pandas (Liesel Wong, Thomas Yu, Mark Zhu)
 SoftDev
-K08 -- Cross Pollination and Virtual Insanity
+K08 - Workshop Visits
 2021-09-30
 
-I thought it was interesting how both my partners used similar methods. Specifically, they created an interval and checked the random number was inside the 
-interval. Then, they printed the job if the percentage was between the interval. 
-
-Common Approaches:
-DictReader to read in the csv file.
-Randomly generated number and intervals to determine the job to output. Some people omitted the upper limit, and only checked the lower limit. 
-
-Other Approaches:
-Pandas
+- What is the best implementation for weighted randomized selection?
+- Many groups used DictReader, but many also did not
+  - Some groups only used csv.reader
+  - One group read in the data using the url of the github percentages
+  - Others read in the data and separated the Job Class from the Percentages manually.
+- Some groups used random.choices to do the weighted randomized selection
+  - How does random.choices work?
+- It doesn't matter if you multiply the percentages by 10 and used randint or if you just used random
