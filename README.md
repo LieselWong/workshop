@@ -32,6 +32,7 @@ This step activates your directory:
 ```
 . activate  
 ```
+or
 ```
 source activate
 ```
