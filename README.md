@@ -2,37 +2,37 @@
 **Interesting Tech News:** [The Voice of Siri Advocates for a more Accessible Web ](https://www.cnet.com/tech/mobile/the-original-voice-of-siri-is-now-advocating-for-a-more-accessible-web/ 
 )
 
-###Homework Review: 
+##Homework Review: 
 * For our homework we created a Virtual Environment called myherozero CHECK
 *~/ indicates the home directory, the place where our myherozero environment was created 
 *Virtual environments are essentially a folder. Inside our virtual environment is a python setup where we can install useful packages 
 
-###Flask: 
+##Flask: 
 *Throughout the course, we are going to be using Flask to help design our websites
 *Jinja2 is a template engine which allows you to create a consistent design theme for multiple pages on a website similar 
 *Werkzeug is a collection of libraries which handles requests to and from the user
 
-###Creating and Deleting a Virtual Environment: 
+##Creating and Deleting a Virtual Environment: 
 *If you would like to remove the old virtual environment type in: 
 *rm -rf <environmentName>
 *If you would like to create a new environment, type in: 
 *Python3 -m venv ~/<environmentName> 
 
-###Activating a Virtual Environment: 
+##Activating a Virtual Environment: 
 Activating our Virtual Environment will run the version of Python installed in the virtual environment and the name of the Virtual Environment will be displated at the beginning of the command line.
 This step ___ 
 Cd bin
 This step ___
 . activate or source activate 
 
-###Installing Flask in our Virtual Environment: 
+##Installing Flask in our Virtual Environment: 
 Inside the bin folder of your virtual environment, type 
 Pip3 install flask
 
-###Reminders: 
+##Reminders: 
 *Make sure to bookmark the Python documentation. It’s helpful! 
 *bring in a ducky (don’t be like me)
 *Task K09 with your new duos is due on the 4th!
 
-###Next LCT 
+##Next LCT 
 *Ryan Wang (rwang22@stuy.edu)
