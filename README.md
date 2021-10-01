@@ -3,26 +3,26 @@
 )
 
 ## Homework Review: 
-*For our homework we created a Virtual Environment called myherozero CHECK
-*~/ indicates the home directory, the place where our myherozero environment was created 
-*Virtual environments are essentially a folder. Inside our virtual environment is a python setup where we can install useful packages 
+* For our homework we created a Virtual Environment called myherozero 
+* ~/ indicates the home directory, the place where our myherozero environment was created 
+* Virtual environments are essentially a folder. Inside our virtual environment is a python setup where we can install useful packages 
 
 ## Flask: 
-*Throughout the course, we are going to be using Flask to help design our websites
-*Jinja2 is a template engine which allows you to create a consistent design theme for multiple pages on a website similar 
-*Werkzeug is a collection of libraries which handles requests to and from the user
+* Throughout the course, we are going to be using Flask to help design our websites
+* Jinja2 is a template engine which allows you to create a consistent design theme for multiple pages on a website similar 
+* Werkzeug is a collection of libraries which handles requests to and from the user
 
 ## Creating and Deleting a Virtual Environment: 
-*If you would like to remove the old virtual environment type in: 
+* If you would like to remove the old virtual environment type in: 
 > rm -rf <environmentName>
-*If you would like to create a new environment, type in: 
+* If you would like to create a new environment, type in: 
 > Python3 -m venv ~/<environmentName> 
 
 ## Activating a Virtual Environment: 
 Activating our Virtual Environment will run the version of Python installed in the virtual environment and the name of the Virtual Environment will be displated at the beginning of the command line.
-This step ___ 
+This step moves you to the bin directory in your virtual environment 
 > Cd bin
-This step ___
+This step activates your directory
 > . activate or source activate 
 
 ## Installing Flask in our Virtual Environment: 
