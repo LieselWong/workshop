@@ -40,9 +40,9 @@ Pip3 install flask
 ```
 
 ## Reminders: 
-*Make sure to bookmark the Python documentation. It’s helpful! 
-*bring in a ducky (don’t be like me)
-*Task K09 with your new duos is due on the 4th!
+* Make sure to bookmark the Python documentation. It’s helpful! 
+* Bring in a ducky (don’t be like me)
+* Task K09 with your new duos is due on the 4th!
 
 ## Next LCT 
 *Ryan Wang (rwang22@stuy.edu)
