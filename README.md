@@ -14,20 +14,30 @@
 
 ## Creating and Deleting a Virtual Environment: 
 * If you would like to remove the old virtual environment type in: 
-> rm -rf <environmentName>
+```
+rm -rf <environmentName>
+```
 * If you would like to create a new environment, type in: 
+```
 > Python3 -m venv ~/<environmentName> 
+```
 
 ## Activating a Virtual Environment: 
 Activating our Virtual Environment will run the version of Python installed in the virtual environment and the name of the Virtual Environment will be displated at the beginning of the command line.
 This step moves you to the bin directory in your virtual environment 
-> Cd bin
+```
+Cd bin
+````
 This step activates your directory
-> . activate or source activate 
+```
+. activate or source activate 
+```
 
 ## Installing Flask in our Virtual Environment: 
 Inside the bin folder of your virtual environment, type 
-> Pip3 install flask
+```
+Pip3 install flask
+```
 
 ## Reminders: 
 *Make sure to bookmark the Python documentation. It’s helpful! 
