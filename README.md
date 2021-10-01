@@ -19,7 +19,7 @@ rm -rf <environmentName>
 ```
 * If you would like to create a new environment, type in: 
 ```
-> Python3 -m venv ~/<environmentName> 
+Python3 -m venv ~/<environmentName> 
 ```
 
 ## Activating a Virtual Environment: 
@@ -30,7 +30,10 @@ Cd bin
 ````
 This step activates your directory:
 ```
-. activate or source activate 
+. activate  
+```
+```
+source activate
 ```
 
 ## Installing Flask in our Virtual Environment: 
