@@ -24,17 +24,17 @@ rm -rf <environmentName>
 
 ## Activating a Virtual Environment: 
 Activating our Virtual Environment will run the version of Python installed in the virtual environment and the name of the Virtual Environment will be displated at the beginning of the command line.
-This step moves you to the bin directory in your virtual environment 
+This step moves you to the bin directory in your virtual environment: 
 ```
 Cd bin
 ````
-This step activates your directory
+This step activates your directory:
 ```
 . activate or source activate 
 ```
 
 ## Installing Flask in our Virtual Environment: 
-Inside the bin folder of your virtual environment, type 
+Inside the bin folder of your virtual environment, type: 
 ```
 Pip3 install flask
 ```
