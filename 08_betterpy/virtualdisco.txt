@@ -3,6 +3,21 @@ SoftDev
 K08 -- Cross Pollination and Virtual Insanity
 2021-09-30
 
-'''python
-python3 -m venv ~/myherozero
-'''
+Code snippet: python3 -m venv ~/myherozero
+python3 - only entering python3 in your terminal opens the python environment, where you can run piece of python code. 
+-m - this command allows python to find a module or a python file and run it from the command line.
+venv -  Creates a virtual environment. A virtual environemnt allows you to interact with the computer. In this sequence, it creates the target the directory
+and places a couple files inside of it. 
+~/myherozero -  This is the name of the created virtual environment. The ~/ indicates the path, starting from the home directory.
+
+
+Sources: 
+python3: 
+- https://realpython.com/run-python-scripts/#:~:text=To%20run%20Python%20scripts%20with,python3%20hello.py%20Hello%20World! 
+- my terminal / i tried out the code
+-m: 
+-https://www.reddit.com/r/learnpython/comments/8nn4za/i_dont_understand_what_python3_m_does/ 
+venv: 
+- https://docs.python.org/3/library/venv.html 
+~/myherozero: 
+https://www.quora.com/What-does-mean-in-a-directory-path 
