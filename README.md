@@ -2,7 +2,7 @@
 **Interesting Tech News:** [The Voice of Siri Advocates for a more Accessible Web ](https://www.cnet.com/tech/mobile/the-original-voice-of-siri-is-now-advocating-for-a-more-accessible-web/ 
 )
 
-##Homework Review: 
+##Homework Review
 * For our homework we created a Virtual Environment called myherozero CHECK
 *~/ indicates the home directory, the place where our myherozero environment was created 
 *Virtual environments are essentially a folder. Inside our virtual environment is a python setup where we can install useful packages 
