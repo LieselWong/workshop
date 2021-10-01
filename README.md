@@ -1,5 +1,5 @@
 ## Friday 2021-10-01 :: LEARNING ABOUT VR AND FLASK:: by Liesel Wong
-**Interesting Tech News:** [The Voice of Siri Advocates for a more Accessible Web ](https://www.cnet.com/tech/mobile/the-original-voice-of-siri-is-now-advocating-for-a-more-accessible-web/ 
+**Interesting Tech News:** [The Voice of Siri Advocates for a More Accessible Web ](https://www.cnet.com/tech/mobile/the-original-voice-of-siri-is-now-advocating-for-a-more-accessible-web/ 
 )
 
 ## Homework Review: 
