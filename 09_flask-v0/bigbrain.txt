@@ -1,1 +1,26 @@
+Team W (Liesel W. [Ducky's Name is King Hagrid] Jonathan W. [Ducky's Name is Loki], Yuqing W. [Ducky's Name is Zero])
+SoftDev
+K09 -- Simple Path to Greatness/Flask/We discussed what a very basic flask app did. We dissected what each part of the program did with our groups. 
+2021-10-3
 
+Q0 - We saw this in Java when we initialized objects. In Java, the general syntax is type <name> = new type(v1...). This is similar to the code we have here because it seems    
+like we're creating an object in Flask called "app" in similar syntax.
+
+Q1 - When we mean '/' in that context, we're redirecting the user to another place within the app. We believe this line of code specifically represents a url ending with '/' only. This is because, URLS (ex: / vs /cupcake) indicates a different part of a webpage or app. We know this to be true because of @app.route. This tells the app to route somewhere else, in this case: '/'.    
+
+Q2 - We think that this will print '_main_'.
+
+Q3 - We then think that it will print it to the console. The 'return "No hablo queso!"' part of the code will print in the website. We know this when you run the program, it does indeed print that string in the website.
+
+Q4 - We have seen similar constructs in Java. This is when you are running a function from another object or class. The run() runs the entirety of the program.
+
+-- After running --
+
+Notable:
+
+It is a 'development server'
+It is a blank page with just the text 'No hablo queso!' in the page.
+The localhost is http://127.0.0.1:5000/ and it's the same for everyone.
+It will print _main_ after every reload.
+It took about 10s for me to launch the server and the website.
+Even after you close the tab, it doesn't end automatically.
