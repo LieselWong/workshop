@@ -1,4 +1,4 @@
-# Workshop of Liesel Wong
+# Workshop 
 ### Software Development 2021-2022 
 
-The work and classwork created from Mr. Mykolyk's software development course at Stuyvesant High School.
+Repository of CW and HW for Mr. Mykolyk's Software Development Class at Stuyvesant 2021-2022
