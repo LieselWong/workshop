@@ -31,7 +31,7 @@ def jobHunting():
     occupationList = "";
     for name in keyList:
         occupationList += name + "<br/>"
-    stringText = "<h2>Team Untitled - Jonathan W. , Liesel W. , Loki , King Hagrid</h2>" + "<h2>Chosen Occupation: " + (keyList[jobIndex]) + "</h2> <h3>List of Occupations: </h3>" + occupationList
+    stringText = "Team Untitled - Jonathan W. , Liesel W. , Loki , King Hagrid</br></br>" + "Chosen Occupation: " + (keyList[jobIndex]) + "</br></br> List of Occupations: </br></br>" + occupationList
     return stringText
 
 app.run()
