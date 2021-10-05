@@ -12,9 +12,10 @@ def hello_world():
 
 app.run()
 
-#This version differs from the previous one in that it doesn't have the print statement
-#in the function. I think this will result in the difference of the program not printing
-#_main_ to the terminal. Otherwise, everything else looks like the same.
+#Since the program only returns "No hablo queso!"
+# and never prints main, the result
+# will be "no hablo queso!" displayed on the webpage.
 
+#Runtime Result: same
 
 

@@ -14,6 +14,8 @@ def hello_world():
 
 app.run()
 
-# We think this would print "about to print_name_... and then in the next line in terminal
-# it will print _main_. The rest of the code is the same as the homework: It'll print
-# no hablo queso! on the website you get from running the program.
+# First, the program will print no hablo queso! on the website you get from running
+# the program. We think then think this would print "about to print_name_...
+# and then in the next line in terminal it will print _main_.
+
+# Runtime Result: same
