@@ -1,0 +1,18 @@
+Team Untitled - Jonathan W. , Liesel W. , Loki , King Hagrid
+SoftDev
+K11 -- Some Thing Never Change/Tinkering With foo(static), html, and python/We first observed the behavior of foo and foo.html, took notes, and then composed and stored another html with some html so that flask can serve that staticly.
+2021-10--06
+
+When we access this file http://localhost:5000/static/foo, we predict this to not even open.
+
+When we access this file http://localhost:5000/static/foo.html, we predict this to open with the text 'Is this plaintext, though?' on the top.
+
+After looking at app.py, we expected that the end behavior of it to be the same as with K09. It should run the program with "No hablo queso!" on the top and then print a few statements in the terminal after a reload or exit.
+
+Results: 
+
+The website http://127.0.0.1:5000/static/foo.html displayed the "Is this plaintext, though?"
+The website http://127.0.0.1:5000/static/foo downloaded the text inside the foo file.
+Inside the terminal, the foo websites we ran were displayed.
+
+app.py worked as expected.
