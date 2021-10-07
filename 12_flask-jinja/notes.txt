@@ -10,5 +10,9 @@ Q0: When we remove render_template, the route /my_foist_template cannot open. It
 Q1: The URL to use that page is http://127.0.0.1:5000/my_foist_template . The 127.0.0.1:5000 is the local host, and the /my_foist_template is the route we are running
 
 Q2: 
- 'model_tmplt.html' loads the file. In the file the code means 
-foo = "fooooo": "fooooo" is the title of the webpage. Foo = means
+'model_tmplt.html' loads the file. In the file the code means 
+
+foo = "fooooo": "fooooo" is the title of the webpage. Foo is the title in the html file, so foo = probably is indicating the title of the html page. 
+
+Collection = Coll: is indicating the collection to be inputted into the html file. The Collection number is being formatted and printed in that HTML file through a for loop and a line break 
+
