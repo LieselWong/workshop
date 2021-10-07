@@ -1,0 +1,14 @@
+#Team Untitled - Jonathan W. , Liesel W. , Loki , King Hagrid
+#SoftDev
+#K12 -- ...or The Only Constant is Change?/exploring jinja2/writing down 
+#what we noticed
+# 2021-10--07
+
+Q0: When we remove render_template, the route /my_foist_template cannot open. It gets an error that
+"render_template" is not defined. When render_template is in the code, the /my_foist_template displays the numbers 1 to 8. 
+
+Q1: The URL to use that page is http://127.0.0.1:5000/my_foist_template . The 127.0.0.1:5000 is the local host, and the /my_foist_template is the route we are running
+
+Q2: 
+ 'model_tmplt.html' loads the file. In the file the code means 
+foo = "fooooo": "fooooo" is the title of the webpage. Foo = means
