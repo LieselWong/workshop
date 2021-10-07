@@ -1,6 +1,7 @@
-# Clyde 'Thluffy' Sinclair
-# SoftDev
-# Oct 2021 
+#Team Untitled - Jonathan W. , Liesel W. , Loki , King Hagrid
+#SoftDev
+#K11 -- Some Thing Never Change/basics of /static folder/We first observed the behavior of foo and foo.html, took notes, and then composed and stored another html with some html so that flask can serve that staticly.
+#2021-10--06
 
 # DEMO 
 # basics of /static folder
