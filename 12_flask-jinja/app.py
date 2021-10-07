@@ -1,6 +1,7 @@
 #Team Untitled - Jonathan W. , Liesel W. , Loki , King Hagrid
 #SoftDev
-#K12 -- ...or The Only Constant is Change?/exploring jinja2/
+#K12 -- ...or The Only Constant is Change?/exploring jinja2/tryign to
+#figure out what pieces of the code mean
 # 2021-10--07
 
 from flask import Flask, render_template#Q0: What happens if you remove render_template from this line?
