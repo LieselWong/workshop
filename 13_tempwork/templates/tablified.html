@@ -26,12 +26,14 @@
        <tr>
          <th> Job Class </th>
          <th> Percentage </th>
+         <th> Links </th>
        </tr>
 
        {% for job, percentage in dict.items() %} <!-- loop through the key value pairs of the dictionary -->
         <tr>
           <td> {{ job }} </td>
-          <td> {{ percentage }} </td>
+          <td> {{ percentage[0] }} </td>
+          <td> {{ percentage[1] }} </td>
         </tr>
         {% endfor %}
      </table>
