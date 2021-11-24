@@ -1,0 +1,6 @@
+*V-***: Liesel Wong (King Hagrid), Austin Ngan (Gerald)
+SoftDev
+K19 -- A RESTful Journey Skyward
+2021-11-22
+
+JSON format for the API makes it very easy to understand, also easy to pull data from it due to it being very similar to a dictionary.
