@@ -9,7 +9,7 @@ Repository of CW and HW for Mr. Mykolyk's Software Development Class at Stuyvesa
 **Interesting Tech News:** [Some Holiday Themed Tech Advice!](https://www.nytimes.com/2021/11/24/technology/personaltech/best-tech-gifts.html) or [Instagram head to testify before Senate subcommittee about the platform's impact on kids](https://www.cnn.com/2021/11/24/tech/instagram-mosseri-senate-hearing/index.html)
 
 #### CLASSWORK
-* We listened to a story about the Challenger
+* We talked about the Challenger tragedy
 * We forked another group's P00 project and redid the CSS code with our partners
 
 #### Forking a Repo
