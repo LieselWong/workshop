@@ -1,7 +1,8 @@
 Dev-Joes: Liesel Wong (King Hagrid), Austin Ngan (Gerald)
 SoftDev
 K22: Who Does Frame Work For?
-2021-11-22
+2021-12-1
+Estimated Time: 2 hours
 
 THE NAVIGATION BAR: 
 Top-bar is a wrapper around the components of the navbar, and leads to the grey box on the top of the screen. 
