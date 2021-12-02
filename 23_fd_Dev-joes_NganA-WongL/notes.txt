@@ -1,0 +1,9 @@
+Dev-Joes: Austin Ngan, Liesel Wong
+SoftDev pd2
+K23 -- 
+2021-12-1
+time spent: 
+
+one thing we learned today is the naming convention is lastF, not firstL. 
+
+Another thing we learned is how to make crads during boostrap. It's similar to foundation except it has a title and text section.
