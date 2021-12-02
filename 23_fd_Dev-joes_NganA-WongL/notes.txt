@@ -1,9 +1,22 @@
-Dev-Joes: Austin Ngan, Liesel Wong
+Dev-Joes: Austin Ngan (Gerald), Liesel Wong (King Hagrid)
 SoftDev pd2
-K23 -- 
-2021-12-1
-time spent: 
+K23 -- No. 2?
+2021-12-2
+time spent: 2.5 hours
 
-one thing we learned today is the naming convention is lastF, not firstL. 
 
-Another thing we learned is how to make crads during boostrap. It's similar to foundation except it has a title and text section.
+DISCO
+Based on the tutorial, we noticed that Bootstrap had a lot more stylistic options. For example, the carousel CSS styling was a lot easier to implement in Bootstrap. We also discovered how to manipulate text with tags like <code> and and Bootstrap styles like text-primary. We also implemented Accordian Drop Downs, which was something we didn't add in Foundation.
+
+We also gained some insights on the differences between Foundation and Bootstrap. Bootstrap has a lot more styling, but also has a lot more CSS content. Foundation had more of a simple, easy to read code but it seemed to have less styling options. 
+
+QCC
+One thing we implemented in Foundation that was difficult to implement in Bootstrap was a row and column format in regards to the cards. It would be interesting to see if there were effective ways to do that, as the Foundation method is very clear. 
+
+Q0 
+We consulted the tutorial given to us by Rachel and Wenhao. We specifically looked at their code and comments that they included.
+
+Q1 
+We prefer Foundation mostly because of its responsive menu. It was incredibly easy to create content that fit a lot of screens because of the row column format. Furthermore, we felt foundation formatted text on different sized screens a lot better. However, we did really like the Bootstrap styling. 
+
+
