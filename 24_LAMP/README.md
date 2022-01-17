@@ -7,12 +7,15 @@ Flask is not built to serve -- on its own -- persistent or high-traffic sites. A
 
 ### Prerequisites:
 
-- Something you should know beforehand...
-- Something you will need installed beforehand...
+- Create your Digital Ocean account with your student Github
+    - First go to the Student Developers Page after you have signed up, Explore your student pack offers, and find Digital Ocean where you should have an option to get a promo code. Enter that code into your Digital Ocean billing area
 
-1. Step blah blah blah, and/or...
-1. Step, with `inline code`, and/or...
-1. Step, with
+1. Go to Control Panel
+2. Click the green 'create' and then droplet button
+3. The settings you want are: Ubuntu, Basic Plan, Regular Intel, $5 a month, NY Datacenter, SSH Keys Authentication 
+4. 
+5. Step, with `inline code`, and/or...
+6. Step, with
     ```
     generic code block or terminal command
     ```
