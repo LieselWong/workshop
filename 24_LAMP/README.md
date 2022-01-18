@@ -65,6 +65,5 @@ Guide to creating an ubuntu 20.04 virtual machine ("droplet") and installing Apa
 
 Accurate as of (last update): 2022-01-17
 
-#### Contributors:  
-Wen Hao Dong, pd2  
+#### Contributors:   
 Liesel Wong, pd2   
