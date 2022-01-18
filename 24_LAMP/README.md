@@ -47,8 +47,9 @@ Guide to creating an ubuntu 20.04 virtual machine ("droplet") and installing Apa
 ### Installing Apache2
 
 1. While logged in to your user account, run the command `$ sudo apt install apache2`
-2. Run the command `$ sudo ufw allow in "Apache"` to allow http traffic
-3. In your web browser, navigate to "http://[ipv4_address]" and you should see the default Apache2 page
+   - If there is an error saying unable to access the package IP, type `$ sudo apt update` to get latest changes to packages 
+3. Run the command `$ sudo ufw allow in "Apache"` to allow http traffic
+4. In your web browser, navigate to "http://[ipv4_address]" and you should see the default Apache2 page
 
 ### Resources
 * https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04
