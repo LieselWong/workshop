@@ -8,7 +8,7 @@ Repository of CW and HW for Mr. Mykolyk's Software Development Class at Stuyvesa
 
 ## Thursday 2022-01-20 :: Deploying Flask Apps On Digital Ocean Part 3 :: by Liesel Wong
 
-**Interesting Tech News:** [Apple AirTags - A perfect tool for stalking] (https://www.bbc.com/news/technology-60004257)
+**Interesting Tech News:** [Apple AirTags - A perfect tool for stalking](https://www.bbc.com/news/technology-60004257)
 
 ### Classwork
 * We continued to work on deploying flask apps on Digital Ocean in class.
