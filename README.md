@@ -11,8 +11,7 @@ Repository of CW and HW for Mr. Mykolyk's Software Development Class at Stuyvesa
 **Interesting Tech News:** [Apple AirTags - A perfect tool for stalking](https://www.bbc.com/news/technology-60004257)
 
 ###Lecture
-* www-data
-* top.... command thing
+* www-data is a 'user' for Ubuntu and allows it to access your website files. 
 
 ### Classwork
 * We continued to work on deploying our P01 flask apps on Digital Ocean in class.
