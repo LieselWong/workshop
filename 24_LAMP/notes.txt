@@ -2,5 +2,7 @@ kekeke  - David Chong, Wen Hao Dong, Liesel Wong
 SoftDev
 K24 --  Cold LAMPin w Flav
 2022-01-17
-time spent: 0.5
+
+When installing Ubuntu packages, I got an error saying the packages were not found. 
+
 
