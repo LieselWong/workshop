@@ -1,0 +1,28 @@
+Wen Hao Dong, David Chong, Liesel Wong
+SoftDev
+K25: Apache, Jump On It
+2021-01-19
+time spent: 2.0 hour
+
+error: cannot find the database.db
+command: added absolute path to database.db in database.py
+LINK: 
+https://stackoverflow.com/questions/3430372/how-do-i-get-the-full-path-of-the-current-files-directory
+
+error: attempt to write a readonly database
+*chmod* changes the permissions in a file
+command: chown -R www-data: www-data, changes every file in the directory so 
+it is owned by apache
+>> to undo this command: sudo chown wenhao: wenaho database.py,
+ makes wenhao admin and it still works????
+
+ls -l >> see permissions 
+
+The flask app on apache seems to break if there isn't a "if __name__ == '__main__'" for the app.run() line
+
+Adding the following lines to your wsgi file allows you to set the directory of your venv:
+```
+WSGIDaemonProcess <whatever> python-home=path/to/venv
+WSGIProcessGroup <whatever>
+WSGIApplicationGroup %{GLOBAL}
+```
