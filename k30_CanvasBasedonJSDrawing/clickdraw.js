@@ -22,14 +22,15 @@ let toggleMode = function (e) {
 }
 
 let drawRect = function(e) {
-    let mouseX = e.clientX;
-    let mouseY = e.clientY;
+    let mouseX = e.offsetX;
+    let mouseY = e.offsetY;
+    //Draw rect function? 
     console.log("rect mouseclick registered at ", mouseX, mouseY);
     ctx.beginPath();
     ctx.moveTo(mouseX, mouseY);
     ctx.lineTo(mouseX + 50, mouseY);
-    ctx.lineTo(mouseX + 50, mouseY - 100);
-    ctx.lineTo(mouseX, mouseY - 100);
+    ctx.lineTo(mouseX + 50, mouseY + 100);
+    ctx.lineTo(mouseX, mouseY + 100);
     ctx.fillStyle = 'blue';
     ctx.fill()
     ctx.closePath();
@@ -38,12 +39,11 @@ let drawRect = function(e) {
 
 //var drawCircle = function(e) {
 let drawCircle = (e) => {
-    let mouseX = e.clientX;
-    let mouseY = e.clientY;
+    let mouseX = e.offsetX;
+    let mouseY = e.offsetY;
     console.log("circle mouseclick registered at ", mouseX, mouseY);
-    ctx.beginPath();
-    ctx.moveTo(mouseX, mouseY);
-    ctx.arc(mouseX, mouseY, 50, 0, 7);
+    ctx.beginPath(); // d-man = genius
+    ctx.arc(mouseX, mouseY, 50, 0, 2 * Math.PI);
     ctx.fillStyle = 'green';
     ctx.fill()
     ctx.closePath();
