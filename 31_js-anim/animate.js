@@ -1,11 +1,9 @@
-// Team Phantom Tollbooth :: Clyde Sinclair, Fierce Dragon
+// Team Hagrio :: Liesel Wong (King Hagrid), Owen Yaggy (Rio)
 // SoftDev pd0
 // K31 -- canvas based JS animation
-// 2022-02-15t
+// 2022-02-15
 
 // model for HTML5 canvas-based animation
-
-// SKEELTON
 
 
 //access canvas and buttons via DOM
@@ -29,24 +27,30 @@ var clear = (e) => {
   // YOUR CODE HERE
 };
 
-
 var radius = 0;
 var growing = true;
 
-
 //var drawDot = function() {
-var drawDot = () => {
+var drawDot = (e) => {
   console.log("drawDot invoked...");
-  while (growing) {
-    ctx.beginPath(); // d-man = genius
-    ctx.arc(250, 250, radius, 0, 2 * Math.PI);
-    ctx.fillStyle = 'green';
-    ctx.fill();
-    ctx.closePath();
-    radius += 1;
-    requestID += 1;
-    window.requestAnimationFrame(drawDot);
+  clear();
+  if (growing && radius >= 250) {
+    growing = false;
   }
+  if (!growing && radius <= 0) {
+    growing = true;
+  }
+  ctx.beginPath(); // d-man = genius
+  ctx.arc(250, 250, radius, 0, 2 * Math.PI);
+  ctx.fill();
+  ctx.closePath();
+  if (growing) { 
+    radius += 1;
+  }
+  else {
+    radius -= 1; 
+  }
+  requestID = window.requestAnimationFrame(drawDot);
 
   // YOUR CODE HERE
 
@@ -69,6 +73,7 @@ var drawDot = () => {
 var stopIt = () => {
   console.log("stopIt invoked...")
   console.log( requestID );
+  window.cancelAnimationFrame(requestID);
 
   // YOUR CODE HERE
   /*
